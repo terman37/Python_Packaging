@@ -10,7 +10,7 @@ folder_structure_should look like this
 
 > place \__init__.py in each folder to be packaged. respect the hierarchy
 
-![folder_structure](C:\MY_DATAS\MyGIT\Python_Packaging\folder_structure.png)
+![folder_structure](folder_structure.png)
 
 if needed:
 
